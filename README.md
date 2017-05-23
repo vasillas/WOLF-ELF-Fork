@@ -1,7 +1,5 @@
 # WOLF-ELF-Fork
 
-Original Branch contains the original GUI program and algorithms  
+Original Folder contains the original GUI program and algorithms  
 
-Master contains C# rewrite 
-
-Testing branch is unstable and should be avoided and should under no circumstances be used on the air  
+Testing branch is unstable and should be avoided unless you know what your doing and should only be used when testing with a dummy load and carefully at that 
